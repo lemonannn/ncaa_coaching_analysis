@@ -49,7 +49,7 @@ fired_coaches = [
 ]
 
 
-new_df = pd.DataFrame(columns=["coach", "year_hired", "success", "type"])
+new_df = pd.DataFrame(columns=["coach", "team", "years_in_pos", "year_hired", "fired", "current", "success", "type"])
 
 year_range = [2025, 2019]
 
@@ -75,13 +75,14 @@ def grab_coaches():
                     if (hired_coach, team) in fired_coaches:
                         fired = True
                         current = False
-                    hired_coaches.append([hired_coach, team, num_years, fired, current, "BLANK", "NA"])
+                    year_hired = 2027 - i
+                    hired_coaches.append([hired_coach, team, num_years, year_hired, fired, current, "BLANK", "NA"])
                     hired_coach = coach
                     num_years = 0
                     current = False
                     fired = False
                 num_years += 1
-    new_df = pd.DataFrame(hired_coaches, columns=["coach", "team", "years_in_pos", "fired", "current", "success", "type"])
+    new_df = pd.DataFrame(hired_coaches, columns=["coach", "team", "years_in_pos", "year_hired", "fired", "current", "success", "type"])
     new_df.to_csv("temp.csv", index=False)
                     
                     
