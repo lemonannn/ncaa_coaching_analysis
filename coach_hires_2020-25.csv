@@ -1,0 +1,73 @@
+coach,team,years_in_pos,fired,current,success,type
+Kalen DeBoer,Alabama,2,False,True,True,NA
+Brent Brennan,Arizona,2,False,True,TBD,NA
+Jedd Fisch,Arizona,3,False,True,True,NA
+Kenny Dillingham,Arizona State,3,False,True,True,NA
+Sam Pittman,Arkansas,6,True,False,True,NA
+Hugh Freeze,Auburn,3,True,False,False,NA
+Bryan Harsin,Auburn,2,True,False,False,NA
+Dave Aranda,Baylor,6,False,True,True,NA
+Bill O'Brien,Boston College,2,False,True,TBD,NA
+Jeff Hafley ,Boston College,4,False,False,False,NA
+Scott Satterfield,Cincinnati,3,False,True,TBD,NA
+Deion Sanders,Colorado,3,False,True,True,NA
+Karl Dorrell,Colorado,3,True,False,False,NA
+Mel Tucker,Colorado,1,False,False,NA,NA
+Manny Diaz,Duke,2,False,True,True,NA
+Mike Elko,Duke,2,False,False,True,NA
+Billy Napier,Florida,4,True,False,False,NA
+Mike Norvell,Florida State,6,False,True,False,NA
+Brent Key,Georgia Tech,3,False,True,True,NA
+Geoff Collins,Georgia Tech,4,True,False,False,NA
+Willie Fritz,Houston,2,False,True,TBD,NA
+Dana Holgorsen,Houston,5,True,False,False,NA
+Bret Bielema,Illinois,5,False,True,True,NA
+Curt Cignetti,Indiana,2,False,True,True,NA
+Lance Leipold,Kansas,5,False,True,True,NA
+Les Miles,Kansas,2,True,False,False,NA
+Chris Klieman,Kansas State,7,False,True,True,NA
+Jeff Brohm,Louisville,3,False,True,True,NA
+Scott Satterfield,Louisville,4,False,False,False,NA
+Brian Kelly,LSU,4,True,False,False,NA
+Mike Locksley,Maryland,7,False,True,False,NA
+Sherrone Moore,Michigan,2,False,True,True,NA
+Jonathan Smith,Michigan State,2,False,True,TBD,NA
+Mel Tucker,Michigan State,4,True,False,False,NA
+Jeff Lebby,Mississippi State,2,False,True,TBD,NA
+Zach Arnett,Mississippi State,1,True,False,False,NA
+Mike Leach,Mississippi State,3,False,False,NA,NA
+Eliah Drinkwitz,Missouri,6,False,True,True,NA
+Matt Rhule,Nebraska,3,False,True,True,NA
+Bill Belichick,North Carolina,1,False,True,TBD,NA
+Mack Brown,North Carolina,6,True,False,True,NA
+David Braun,Northwestern,3,False,True,True,NA
+Ryan Day,Ohio State,7,False,True,True,NA
+Brent Venables ,Oklahoma,4,False,True,True,NA
+Lane Kiffin,Ole Miss,6,False,True,True,NA
+Dan Lanning ,Oregon,4,False,True,True,NA
+Barry Odom,Purdue,1,False,True,TBD,NA
+Ryan Walters,Purdue,2,True,False,False,NA
+Greg Schiano,Rutgers,6,False,True,True,NA
+Rhett Lashlee,SMU,4,False,True,True,NA
+Shane Beamer,South Carolina,5,False,True,True,NA
+Frank Reich,Stanford,1,False,True,TBD,NA
+Troy Taylor,Stanford,2,True,False,False,NA
+Fran Brown,Syracuse,2,False,True,True,NA
+Sonny Dykes,TCU,4,False,True,True,NA
+Josh Heupel,Tennessee,5,False,True,True,NA
+Steve Sarkisian,Texas,5,False,True,True,NA
+Mike Elko,Texas A&M,2,False,True,True,NA
+Joey McGuire,Texas Tech,4,False,True,True,NA
+Matt Wells,Texas Tech,3,True,False,False,NA
+DeShaun Foster,UCLA,2,True,False,False,NA
+Lincoln Riley,USC,4,False,True,True,NA
+Clark Lea,Vanderbilt,5,False,True,True,NA
+Tony Elliott,Virginia,4,False,True,False,NA
+Brent Pry,Virginia Tech,4,True,False,False,NA
+Jake Dickert ,Wake Forest,1,False,True,True,NA
+Jedd Fisch,Washington,2,False,True,TBD,NA
+Kalen DeBoer,Washington,2,False,False,True,NA
+Jimmy Lake,Washington,2,True,False,False,NA
+Rich Rodriguez ,West Virginia,1,False,True,TBD,NA
+Neal Brown,West Virginia,6,True,False,False,NA
+Luke Fickell,Wisconsin,3,False,True,TBD,NA
