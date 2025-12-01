@@ -23,7 +23,10 @@ power_four_schools = [
     "Boston College", "California", "Clemson", "Duke", "Florida State",
     "Georgia Tech", "Louisville", "Miami (FL)", "NC State",
     "North Carolina", "Pittsburgh", "Syracuse", "Stanford",
-    "Virginia", "Virginia Tech", "Wake Forest", "SMU"
+    "Virginia", "Virginia Tech", "Wake Forest", "SMU",
+    
+    # Others
+    "Notre Dame", "Washington State", "Oregon State"
 ]
 
 fired_coaches = [
@@ -45,7 +48,9 @@ fired_coaches = [
     ("DeShaun Foster", "UCLA"),
     ("Brent Pry", "Virginia Tech"),
     ("Jimmy Lake", "Washington"),
-    ("Neal Brown", "West Virginia")
+    ("Neal Brown", "West Virginia"),
+    ("Gus Mahlzahn", "UCF"),
+    ("Manny Diaz", "Miami (FL)")
 ]
 
 
@@ -72,11 +77,13 @@ def grab_coaches():
                 print(coach)
                 print(num_years)
                 if coach != hired_coach:
+                    if team == "Miami (FL)":
+                        team = "Miami"
                     if (hired_coach, team) in fired_coaches:
                         fired = True
                         current = False
                     year_hired = 2027 - i
-                    hired_coaches.append([hired_coach, team, num_years, year_hired, fired, current, "BLANK", "NA"])
+                    hired_coaches.append([hired_coach.rstrip(), team, num_years, year_hired, fired, current, "BLANK", "NA"])
                     hired_coach = coach
                     num_years = 0
                     current = False
