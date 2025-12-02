@@ -1,5 +1,5 @@
 coach,team,years_in_pos,fired,current,success,type,hired_from,prior_p4_or_nfl_hc,former_qb_coach,former_defensive_coach
-Kalen DeBoer,Alabama,2,False,True,True,Cignetti,Washington,True,True,False
+Kalen DeBoer,Alabama,2,False,True,True,DeBoer,Washington,True,True,False
 Brent Brennan,Arizona,2,False,True,TBD,Cignetti,San Jose State,False,False,False
 Jedd Fisch,Arizona,3,False,True,True,Rhule,New England Patriots,False,True,False
 Kenny Dillingham,Arizona State,3,False,True,True,McGuire,Oregon,False,True,False
@@ -11,7 +11,7 @@ Bill O'Brien,Boston College,2,False,True,TBD,Rhule,New England Patriots,True,Tru
 Jeff Hafley,Boston College,4,False,False,False,Rhule,San Francisco 49ers,False,False,True
 Scott Frost,UCF,1,False,True,TBD,Franklin,Nebraska,True,False,True
 Gus Malzahn,UCF,4,True,False,False,Franklin,Auburn,True,True,False
-Scott Satterfield,Cincinnati,3,False,True,TBD,Cignetti,Louisville,True,True,False
+Scott Satterfield,Cincinnati,3,False,True,TBD,Brohm,Louisville,True,True,False
 Deion Sanders,Colorado,3,False,True,True,Cignetti,Jackson State,False,False,False
 Karl Dorrell,Colorado,3,True,False,False,Rhule,Miami Dolphins,True,True,False
 Mel Tucker,Colorado,1,False,False,NA,McGuire,Georgia,False,False,True
@@ -22,24 +22,24 @@ Mike Norvell,Florida State,6,False,True,False,Cignetti,Memphis,False,True,False
 Brent Key,Georgia Tech,3,False,True,True,Key,NA,False,False,False
 Geoff Collins,Georgia Tech,4,True,False,False,Cignetti,Temple,False,False,True
 Willie Fritz,Houston,2,False,True,TBD,Cignetti,Tulane,False,False,True
-Dana Holgorsen,Houston,5,True,False,False,Cignetti,West Virginia,True,True,False
+Dana Holgorsen,Houston,5,True,False,False,Brohm,West Virginia,True,True,False
 Bret Bielema,Illinois,5,False,True,True,Franklin,Arkansas,True,False,True
 Curt Cignetti,Indiana,2,False,True,True,Cignetti,James Madison,False,True,False
 Lance Leipold,Kansas,5,False,True,True,Cignetti,Buffalo,False,True,False
 Les Miles,Kansas,2,True,False,False,Franklin,LSU,True,False,False
 Chris Klieman,Kansas State,7,False,True,True,Cignetti,North Dakota State,False,False,True
-Jeff Brohm,Louisville,3,False,True,True,Cignetti,Purdue,True,True,False
+Jeff Brohm,Louisville,3,False,True,True,Brohm,Purdue,True,True,False
 Scott Satterfield,Louisville,4,False,False,False,Cignetti,Appalachian State,False,True,False
-Brian Kelly,LSU,4,True,False,False,Cignetti,Notre Dame,True,False,True
+Brian Kelly,LSU,4,True,False,False,DeBoer,Notre Dame,True,False,True
 Mike Locksley,Maryland,7,False,True,False,McGuire,Alabama,False,True,False
-Mario Cristobal,Miami,4,False,True,True,Cignetti,Oregon,True,False,False
+Mario Cristobal,Miami,4,False,True,True,DeBoer,Oregon,True,False,False
 Manny Diaz,Miami,3,True,False,False,Key,NA,False,False,True
 Sherrone Moore,Michigan,2,False,True,True,Key,NA,False,False,False
-Jonathan Smith,Michigan State,2,False,True,False,Cignetti,Oregon State,True,True,False
-Mel Tucker,Michigan State,4,True,False,False,Cignetti,Colorado,True,False,True
+Jonathan Smith,Michigan State,2,False,True,False,Brohm,Oregon State,True,True,False
+Mel Tucker,Michigan State,4,True,False,False,Brohm,Colorado,True,False,True
 Jeff Lebby,Mississippi State,2,False,True,TBD,McGuire,Oklahoma,False,True,False
 Zach Arnett,Mississippi State,1,True,False,False,Key,NA,False,False,True
-Mike Leach,Mississippi State,3,False,False,NA,Cignetti,Washington State,True,True,False
+Mike Leach,Mississippi State,3,False,False,NA,Brohm,Washington State,True,True,False
 Eliah Drinkwitz,Missouri,6,False,True,True,Cignetti,Appalachian State,False,True,False
 Matt Rhule,Nebraska,3,False,True,True,Rhule,Carolina Panthers,True,True,True
 Bill Belichick,North Carolina,1,False,True,TBD,Rhule,New England Patriots,True,False,True
@@ -59,19 +59,19 @@ Shane Beamer,South Carolina,5,False,True,True,McGuire,Oklahoma,False,False,True
 Frank Reich,Stanford,1,False,True,TBD,Rhule,Carolina Panthers,True,True,False
 Troy Taylor,Stanford,2,True,False,False,Cignetti,Sacramento State,False,True,False
 Fran Brown,Syracuse,2,False,True,True,McGuire,Georgia,False,False,True
-Sonny Dykes,TCU,4,False,True,True,Cignetti,SMU,True,True,False
-Josh Heupel,Tennessee,5,False,True,True,Cignetti,UCF,True,True,False
+Sonny Dykes,TCU,4,False,True,True,Brohm,SMU,True,True,False
+Josh Heupel,Tennessee,5,False,True,True,Brohm,UCF,True,True,False
 Steve Sarkisian,Texas,5,False,True,True,McGuire,Alabama,True,True,False
-Mike Elko,Texas A&M,2,False,True,True,Cignetti,Duke,True,False,True
+Mike Elko,Texas A&M,2,False,True,True,Brohm,Duke,True,False,True
 Joey McGuire,Texas Tech,4,False,True,True,McGuire,Baylor,False,False,True
 Matt Wells,Texas Tech,3,True,False,False,Cignetti,Utah State,False,True,False
 DeShaun Foster,UCLA,2,True,False,False,Key,NA,False,False,True
-Lincoln Riley,USC,4,False,True,True,Cignetti,Oklahoma,True,True,False
+Lincoln Riley,USC,4,False,True,True,DeBoer,Oklahoma,True,True,False
 Clark Lea,Vanderbilt,5,False,True,True,McGuire,Notre Dame,False,False,True
 Tony Elliott,Virginia,4,False,True,False,McGuire,Clemson,False,False,False
 Brent Pry,Virginia Tech,4,True,False,False,McGuire,Penn State,False,False,True
-Jake Dickert,Wake Forest,1,False,True,True,Cignetti,Washington State,True,False,True
-Jedd Fisch,Washington,2,False,True,TBD,Cignetti,Arizona,True,True,False
+Jake Dickert,Wake Forest,1,False,True,True,Brohm,Washington State,True,False,True
+Jedd Fisch,Washington,2,False,True,TBD,Brohm,Arizona,True,True,False
 Kalen DeBoer,Washington,2,False,False,True,Cignetti,Fresno State,False,True,False
 Jimmy Lake,Washington,2,True,False,False,Key,NA,False,False,True
 Jimmy Rogers,Washington State,1,False,True,TBD,Cignetti,South Dakota State,False,False,True
@@ -79,4 +79,4 @@ Jake Dickert,Washington State,3,False,False,True,Key,NA,False,False,True
 Nick Rolovich,Washington State,2,False,False,False,Cignetti,Hawaii,False,True,False
 Rich Rodriguez,West Virginia,1,False,True,TBD,Cignetti,Jacksonville State,True,True,True
 Neal Brown,West Virginia,6,True,False,False,Cignetti,Troy,False,True,False
-Luke Fickell,Wisconsin,3,False,True,TBD,Cignetti,Cincinnati,True,False,True
+Luke Fickell,Wisconsin,3,False,True,TBD,Brohm,Cincinnati,True,False,True

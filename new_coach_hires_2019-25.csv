@@ -1,0 +1,82 @@
+,coach,team,years_in_pos,fired,current,success,type,hired_from,prior_p4_or_nfl_hc,former_qb_coach,former_defensive_coach,prior_hc
+0,Kalen DeBoer,Alabama,2,False,True,True,DeBoer,Washington,True,True,False,True
+1,Brent Brennan,Arizona,2,False,True,TBD,Cignetti,San Jose State,False,False,False,True
+2,Jedd Fisch,Arizona,3,False,True,True,Rhule,New England Patriots,False,True,False,False
+3,Kenny Dillingham,Arizona State,3,False,True,True,McGuire,Oregon,False,True,False,False
+4,Sam Pittman,Arkansas,6,True,False,True,McGuire,Georgia,False,False,False,False
+5,Hugh Freeze,Auburn,3,True,False,False,Cignetti,Liberty,True,False,False,True
+6,Bryan Harsin,Auburn,2,True,False,False,Cignetti,Boise State,False,True,False,True
+7,Dave Aranda,Baylor,6,False,True,True,McGuire,LSU,False,False,True,False
+8,Bill O'Brien,Boston College,2,False,True,TBD,Rhule,New England Patriots,True,True,False,True
+9,Jeff Hafley,Boston College,4,False,False,False,Rhule,San Francisco 49ers,False,False,True,False
+10,Scott Frost,UCF,1,False,True,TBD,Franklin,Nebraska,True,False,True,True
+11,Gus Malzahn,UCF,4,True,False,False,Franklin,Auburn,True,True,False,True
+12,Scott Satterfield,Cincinnati,3,False,True,TBD,Brohm,Louisville,True,True,False,True
+13,Deion Sanders,Colorado,3,False,True,True,Cignetti,Jackson State,False,False,False,True
+14,Karl Dorrell,Colorado,3,True,False,False,Rhule,Miami Dolphins,True,True,False,True
+15,Mel Tucker,Colorado,1,False,False,,McGuire,Georgia,False,False,True,False
+16,Manny Diaz,Duke,2,False,True,True,Franklin,Miami,True,False,True,True
+17,Mike Elko,Duke,2,False,False,True,McGuire,Texas A&M,False,False,True,False
+18,Billy Napier,Florida,4,True,False,False,Cignetti,Louisiana,False,True,False,True
+19,Mike Norvell,Florida State,6,False,True,False,Cignetti,Memphis,False,True,False,True
+20,Brent Key,Georgia Tech,3,False,True,True,Key,,False,False,False,False
+21,Geoff Collins,Georgia Tech,4,True,False,False,Cignetti,Temple,False,False,True,True
+22,Willie Fritz,Houston,2,False,True,TBD,Cignetti,Tulane,False,False,True,True
+23,Dana Holgorsen,Houston,5,True,False,False,Brohm,West Virginia,True,True,False,True
+24,Bret Bielema,Illinois,5,False,True,True,Franklin,Arkansas,True,False,True,True
+25,Curt Cignetti,Indiana,2,False,True,True,Cignetti,James Madison,False,True,False,True
+26,Lance Leipold,Kansas,5,False,True,True,Cignetti,Buffalo,False,True,False,True
+27,Les Miles,Kansas,2,True,False,False,Franklin,LSU,True,False,False,True
+28,Chris Klieman,Kansas State,7,False,True,True,Cignetti,North Dakota State,False,False,True,True
+29,Jeff Brohm,Louisville,3,False,True,True,Brohm,Purdue,True,True,False,True
+30,Scott Satterfield,Louisville,4,False,False,False,Cignetti,Appalachian State,False,True,False,True
+31,Brian Kelly,LSU,4,True,False,False,DeBoer,Notre Dame,True,False,True,True
+32,Mike Locksley,Maryland,7,False,True,False,McGuire,Alabama,False,True,False,True
+33,Mario Cristobal,Miami,4,False,True,True,DeBoer,Oregon,True,False,False,True
+34,Manny Diaz,Miami,3,True,False,False,Key,,False,False,True,False
+35,Sherrone Moore,Michigan,2,False,True,True,Key,,False,False,False,False
+36,Jonathan Smith,Michigan State,2,False,True,False,Brohm,Oregon State,True,True,False,True
+37,Mel Tucker,Michigan State,4,True,False,False,Brohm,Colorado,True,False,True,True
+38,Jeff Lebby,Mississippi State,2,False,True,TBD,McGuire,Oklahoma,False,True,False,False
+39,Zach Arnett,Mississippi State,1,True,False,False,Key,,False,False,True,False
+40,Mike Leach,Mississippi State,3,False,False,,Brohm,Washington State,True,True,False,True
+41,Eliah Drinkwitz,Missouri,6,False,True,True,Cignetti,Appalachian State,False,True,False,True
+42,Matt Rhule,Nebraska,3,False,True,True,Rhule,Carolina Panthers,True,True,True,True
+43,Bill Belichick,North Carolina,1,False,True,TBD,Rhule,New England Patriots,True,False,True,True
+44,Mack Brown,North Carolina,6,True,False,True,Franklin,Texas,True,True,False,True
+45,David Braun,Northwestern,3,False,True,True,Key,,False,False,True,False
+46,Marcus Freeman,Notre Dame,4,False,True,True,Key,,False,False,True,False
+47,Ryan Day,Ohio State,7,False,True,True,Key,,False,True,False,False
+48,Brent Venables,Oklahoma,4,False,True,True,McGuire,Clemson,False,False,True,False
+49,Lane Kiffin,Ole Miss,6,False,True,True,Cignetti,Florida Atlantic,True,True,False,True
+50,Dan Lanning,Oregon,4,False,True,True,McGuire,Georgia,False,False,True,False
+51,Trent Bray,Oregon State,2,True,False,False,Key,,False,False,True,False
+52,Barry Odom,Purdue,1,False,True,TBD,Cignetti,UNLV,True,False,True,True
+53,Ryan Walters,Purdue,2,True,False,False,McGuire,Illinois,False,False,True,False
+54,Greg Schiano,Rutgers,6,False,True,True,Rhule,Tampa Bay Buccaneers,True,False,True,True
+55,Rhett Lashlee,SMU,4,False,True,True,McGuire,Miami,False,True,False,False
+56,Shane Beamer,South Carolina,5,False,True,True,McGuire,Oklahoma,False,False,True,False
+57,Frank Reich,Stanford,1,False,True,TBD,Rhule,Carolina Panthers,True,True,False,True
+58,Troy Taylor,Stanford,2,True,False,False,Cignetti,Sacramento State,False,True,False,True
+59,Fran Brown,Syracuse,2,False,True,True,McGuire,Georgia,False,False,True,False
+60,Sonny Dykes,TCU,4,False,True,True,Brohm,SMU,True,True,False,True
+61,Josh Heupel,Tennessee,5,False,True,True,Brohm,UCF,True,True,False,True
+62,Steve Sarkisian,Texas,5,False,True,True,McGuire,Alabama,True,True,False,True
+63,Mike Elko,Texas A&M,2,False,True,True,Brohm,Duke,True,False,True,True
+64,Joey McGuire,Texas Tech,4,False,True,True,McGuire,Baylor,False,False,True,False
+65,Matt Wells,Texas Tech,3,True,False,False,Cignetti,Utah State,False,True,False,True
+66,DeShaun Foster,UCLA,2,True,False,False,Key,,False,False,True,False
+67,Lincoln Riley,USC,4,False,True,True,DeBoer,Oklahoma,True,True,False,True
+68,Clark Lea,Vanderbilt,5,False,True,True,McGuire,Notre Dame,False,False,True,False
+69,Tony Elliott,Virginia,4,False,True,False,McGuire,Clemson,False,False,False,False
+70,Brent Pry,Virginia Tech,4,True,False,False,McGuire,Penn State,False,False,True,False
+71,Jake Dickert,Wake Forest,1,False,True,True,Brohm,Washington State,True,False,True,True
+72,Jedd Fisch,Washington,2,False,True,TBD,Brohm,Arizona,True,True,False,True
+73,Kalen DeBoer,Washington,2,False,False,True,Cignetti,Fresno State,False,True,False,True
+74,Jimmy Lake,Washington,2,True,False,False,Key,,False,False,True,False
+75,Jimmy Rogers,Washington State,1,False,True,TBD,Cignetti,South Dakota State,False,False,True,True
+76,Jake Dickert,Washington State,3,False,False,True,Key,,False,False,True,False
+77,Nick Rolovich,Washington State,2,False,False,False,Cignetti,Hawaii,False,True,False,True
+78,Rich Rodriguez,West Virginia,1,False,True,TBD,Cignetti,Jacksonville State,True,True,True,True
+79,Neal Brown,West Virginia,6,True,False,False,Cignetti,Troy,False,True,False,True
+80,Luke Fickell,Wisconsin,3,False,True,TBD,Brohm,Cincinnati,True,False,True,True
