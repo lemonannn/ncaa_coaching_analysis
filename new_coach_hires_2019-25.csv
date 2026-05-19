@@ -4,7 +4,7 @@
 2,Jedd Fisch,Arizona,3,False,True,True,Rhule,New England Patriots,False,True,False,False
 3,Kenny Dillingham,Arizona State,3,False,True,True,McGuire,Oregon,False,True,False,False
 4,Sam Pittman,Arkansas,6,True,False,True,McGuire,Georgia,False,False,False,False
-5,Hugh Freeze,Auburn,3,True,False,False,Cignetti,Liberty,True,False,False,True
+5,Hugh Freeze,Auburn,3,True,False,False,Franklin,Liberty,True,False,False,True
 6,Bryan Harsin,Auburn,2,True,False,False,Cignetti,Boise State,False,True,False,True
 7,Dave Aranda,Baylor,6,False,True,True,McGuire,LSU,False,False,True,False
 8,Bill O'Brien,Boston College,2,False,True,TBD,Rhule,New England Patriots,True,True,False,True
@@ -48,7 +48,7 @@
 46,Marcus Freeman,Notre Dame,4,False,True,True,Key,,False,False,True,False
 47,Ryan Day,Ohio State,7,False,True,True,Key,,False,True,False,False
 48,Brent Venables,Oklahoma,4,False,True,True,McGuire,Clemson,False,False,True,False
-49,Lane Kiffin,Ole Miss,6,False,True,True,Cignetti,Florida Atlantic,True,True,False,True
+49,Lane Kiffin,Ole Miss,6,False,True,True,Franklin,Florida Atlantic,True,True,False,True
 50,Dan Lanning,Oregon,4,False,True,True,McGuire,Georgia,False,False,True,False
 51,Trent Bray,Oregon State,2,True,False,False,Key,,False,False,True,False
 52,Barry Odom,Purdue,1,False,True,TBD,Cignetti,UNLV,True,False,True,True
@@ -61,7 +61,7 @@
 59,Fran Brown,Syracuse,2,False,True,True,McGuire,Georgia,False,False,True,False
 60,Sonny Dykes,TCU,4,False,True,True,Brohm,SMU,True,True,False,True
 61,Josh Heupel,Tennessee,5,False,True,True,Brohm,UCF,True,True,False,True
-62,Steve Sarkisian,Texas,5,False,True,True,McGuire,Alabama,True,True,False,True
+62,Steve Sarkisian,Texas,5,False,True,True,Franklin,Alabama,True,True,False,True
 63,Mike Elko,Texas A&M,2,False,True,True,Brohm,Duke,True,False,True,True
 64,Joey McGuire,Texas Tech,4,False,True,True,McGuire,Baylor,False,False,True,False
 65,Matt Wells,Texas Tech,3,True,False,False,Cignetti,Utah State,False,True,False,True
@@ -77,6 +77,6 @@
 75,Jimmy Rogers,Washington State,1,False,True,TBD,Cignetti,South Dakota State,False,False,True,True
 76,Jake Dickert,Washington State,3,False,False,True,Key,,False,False,True,False
 77,Nick Rolovich,Washington State,2,False,False,False,Cignetti,Hawaii,False,True,False,True
-78,Rich Rodriguez,West Virginia,1,False,True,TBD,Cignetti,Jacksonville State,True,True,True,True
+78,Rich Rodriguez,West Virginia,1,False,True,TBD,Franklin,Jacksonville State,True,True,True,True
 79,Neal Brown,West Virginia,6,True,False,False,Cignetti,Troy,False,True,False,True
 80,Luke Fickell,Wisconsin,3,False,True,TBD,Brohm,Cincinnati,True,False,True,True
